@@ -26,7 +26,7 @@ const Business = () => (
       Smart Recycling and Waste Solutions
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Explore the cutting-edge world of intelligent recycling, waste management solutions, and sustainable technology, driving positive environmental and societal change.
+      Learn about advanced recycling methodologies, innovative waste management strategies and environmentally friendly technologies that lead to a transformative impact on the environment and society.
       </p>
 
 
